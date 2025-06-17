@@ -43,14 +43,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-47A141?style=flat&logo=coreldraw&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajinkyaa2004&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkyaa2004&theme=tokyonight&hide_border=false" width="48%" />
-</div>
 
 ---
 
