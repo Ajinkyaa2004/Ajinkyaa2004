@@ -52,7 +52,7 @@
 - 🛒 **Fab Wear** – E-commerce site using HTML/CSS/JS + Local Storage  
 - 💬 **Chat App** – Java + Spring Boot backend, Swing UI frontend  
 - 🏨 **Hotel Management System** – Java Swing + MySQL  
-- 📍 **Event Recommendation Platform** – AI-based, MongoDB, Google Maps, Spring Boot, React   
+ 
 
 ---
 
