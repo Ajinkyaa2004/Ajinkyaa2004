@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=1000&color=007ACC&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ajinkya+Dhumal+%F0%9F%91%8B;Full+Stack+Developer+%7C+Java+%26+React;Skilled+in+Spring+Boot%2C+MongoDB%2C+HTML%2C+CSS%2C+JS;Building+Scalable+and+User-Friendly+Web+Apps;Currently+Exploring+Product+Management+%F0%9F%92%BC;Bridging+Tech+%2B+User+Experience+with+Code+/+Strategy" alt="Typing SVG" />
 </h1>
 
- 
-
 ---
 
 ## 👨‍💻 About Me
@@ -34,16 +32,17 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
 
 ### 🎨 Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-47A141?style=flat&logo=coreldraw&logoColor=white)
-
 
 ---
 
