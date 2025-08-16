@@ -36,6 +36,9 @@
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=flat&logo=drizzle&logoColor=white)
+
 
 
 ### 🎨 Design Tools
@@ -50,7 +53,8 @@
 
 - 🛒 **Fab Wear** – E-commerce site using HTML/CSS/JS + Local Storage  
 - 💬 **Chat App** – Java + Spring Boot backend, Swing UI frontend  
-- 🏨 **Hotel Management System** – Java Swing + MySQL  
+- 🏨 **Hotel Management System** – Java Swing + MySQL 
+- 🤖 **NexPrep** - Next Js + React Js, Tailwind CSS, Google-Gemini API, Firebase + Drizzle ORM  
  
 
 ---
