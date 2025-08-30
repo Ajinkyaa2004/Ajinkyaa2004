@@ -51,10 +51,12 @@
 
 ## 🌟 Featured Projects
 
+- 🤖 **NexPrep** - Next Js + React Js, Tailwind CSS, Google-Gemini API, Firebase + Drizzle ORM
+- 🏨 **Hotel Management System** – Java Swing + MySQL 
 - 🛒 **Fab Wear** – E-commerce site using HTML/CSS/JS + Local Storage  
 - 💬 **Chat App** – Java + Spring Boot backend, Swing UI frontend  
-- 🏨 **Hotel Management System** – Java Swing + MySQL 
-- 🤖 **NexPrep** - Next Js + React Js, Tailwind CSS, Google-Gemini API, Firebase + Drizzle ORM  
+
+
  
 
 ---
