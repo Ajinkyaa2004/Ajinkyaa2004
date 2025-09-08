@@ -32,14 +32,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=flat&logo=drizzle&logoColor=white)
-
-
 
 ### 🎨 Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
@@ -51,14 +48,39 @@
 
 ## 🌟 Featured Projects
 
-- 🤖 **NexPrep** - Next Js + React Js, Tailwind CSS, Google-Gemini API, Firebase + Drizzle ORM
-- 🏨 **Hotel Management System** – Java Swing + MySQL 
+- 🤖 **NexPrep** - Next Js + React Js, Tailwind CSS, Google-Gemini API, Firebase + Drizzle ORM  
+- 🏨 **Hotel Management System** – Java Swing + MySQL  
 - 🛒 **Fab Wear** – E-commerce site using HTML/CSS/JS + Local Storage  
 - 💬 **Chat App** – Java + Spring Boot backend, Swing UI frontend  
 
+---
 
- 
+## 📊 GitHub Stats & Streaks  
+
+![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaDhumal&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=AjinkyaDhumal&theme=tokyonight&border_radius=6)  
 
 ---
 
-> 💡 “I build, I learn, I share.” — Let’s create solutions that matter.  
+## 🐍 Contribution Graph  
+
+![snake gif](https://github.com/AjinkyaDhumal/AjinkyaDhumal/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya-dhumal)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AjinkyaDhumal)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](your-portfolio-link)  
+
+---
+
+## 🎧 Fun Extras  
+
+- 💡 *“I build, I learn, I share.” — Let’s create solutions that matter.*  
+- ⚡ Currently experimenting with **AI-powered apps + product management ideas**.  
+- 🎵 Favorite coding fuel: Lo-fi beats & coffee ☕  
+- 🏋️‍♂️ Gym rat by morning, coder by day, learner by night!  
+
+---
