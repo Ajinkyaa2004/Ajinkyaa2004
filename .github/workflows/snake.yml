@@ -1,25 +1,29 @@
 name: generate-snake
 
+# Give the workflow permission to push to branches
 permissions:
   contents: write
 
 on:
-  schedule: # run every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # allows you to run manually from Actions tab
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # allow manual run
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+      # v4 is fine too; v3 works as well
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Ajinkyaa2004
-          outputs: dist/github-snake.svg dist/github-snake-dark.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
