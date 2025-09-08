@@ -66,11 +66,14 @@
 
 ## 🐍 Contribution Graph  
 
+## 🐍 Contribution Graph  
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ajinkyaa2004/Ajinkyaa2004/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ajinkyaa2004/Ajinkyaa2004/blob/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/Ajinkyaa2004/Ajinkyaa2004/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajinkyaa2004/Ajinkyaa2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajinkyaa2004/Ajinkyaa2004/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ajinkyaa2004/Ajinkyaa2004/output/github-snake.svg" />
 </picture>
+
 
 ---
 
