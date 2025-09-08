@@ -66,7 +66,7 @@
 
 ## 🐍 Contribution Graph
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Ajinkyaa2004/Ajinkyaa2004/output/github-snake.svg#gh-light-mode-only)
+
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Ajinkyaa2004/Ajinkyaa2004/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
