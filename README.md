@@ -64,7 +64,8 @@
 
 ## 🐍 Contribution Graph  
 
-![snake gif](https://github.com/AjinkyaDhumal/AjinkyaDhumal/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/Ajinkyaa2004/Ajinkyaa2004/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
