@@ -57,8 +57,10 @@
 
 ## 📊 GitHub Stats & Streaks  
 
-![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaDhumal&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=AjinkyaDhumal&theme=tokyonight&border_radius=6)  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajinkyaa2004&show_icons=true&theme=tokyonight" alt="Ajinkya's GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Ajinkyaa2004&theme=tokyonight" alt="Ajinkya's GitHub Streak" />
+</p>
 
 ---
 
@@ -70,23 +72,22 @@
   <img alt="GitHub Contribution Snake" src="https://github.com/Ajinkyaa2004/Ajinkyaa2004/blob/output/github-snake.svg" />
 </picture>
 
+---
 
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/ajinkyad04" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ajinkya.dhumal0408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ajinkyaa2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya-dhumal)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AjinkyaDhumal)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](your-portfolio-link)  
-
----
-
-## 🎧 Fun Extras  
-
-- 💡 *“I build, I learn, I share.” — Let’s create solutions that matter.*  
-- ⚡ Currently experimenting with **AI-powered apps + product management ideas**.  
-- 🎵 Favorite coding fuel: Lo-fi beats & coffee ☕  
-- 🏋️‍♂️ Gym rat by morning, coder by day, learner by night!  
-
----
+> 💡 “I build, I learn, I share.” — Let’s create solutions that matter.  
