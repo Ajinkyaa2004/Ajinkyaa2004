@@ -52,6 +52,7 @@
 - 🏨 **Hotel Management System** – Java Swing + MySQL  
 - 🛒 **Fab Wear** – E-commerce site using HTML/CSS/JS + Local Storage  
 - 💬 **Chat App** – Java + Spring Boot backend, Swing UI frontend  
+- 🆔 **ZenId** - Next Js + React Js, Tailwind CSS, MetaMask, Solidity, Firebase
 
 ---
 
