@@ -28,6 +28,8 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -38,11 +40,24 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=flat&logo=drizzle&logoColor=white)
 
-### 🎨 Design Tools
+### 🎨 Design & Productivity Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-47A141?style=flat&logo=coreldraw&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+### 📊 Product Management Skills
+![Agile](https://img.shields.io/badge/Agile%20&%20Scrum-2496ED?style=flat&logo=scrumalliance&logoColor=white)
+![Roadmapping](https://img.shields.io/badge/Product%20Roadmapping-FF6F00?style=flat&logo=roadmapdotsh&logoColor=white)
+![User Research](https://img.shields.io/badge/User%20Research-8E44AD?style=flat&logo=googleforms&logoColor=white)
+![Market Research](https://img.shields.io/badge/Market%20Research-27AE60?style=flat&logo=databricks&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-FF4088?style=flat&logo=figma&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-34495E?style=flat&logo=trustpilot&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+
 
 ---
 
