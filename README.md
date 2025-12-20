@@ -68,23 +68,24 @@
 
 ## 🌟 Featured Projects
 
-🧠 IFA Hiring Platform (SkillQuest)
-Gamified hiring & assessment platform with real-world workflows
+🧠 <strong>IFA Hiring Platform (SkillQuest)</strong>  
+<strong>Gamified hiring & assessment platform</strong> with <strong>real-world workflows</strong>
 
-🤖 NexPrep
-AI-powered mock interview & preparation platform
+🤖 <strong>NexPrep</strong>  
+<strong>AI-powered mock interview & preparation platform</strong>
 
-⚽ CopaScore
-Live football analytics & match prediction system
+⚽ <strong>CopaScore</strong>  
+<strong>Live football analytics & match prediction system</strong>
 
-📈 Trading Strategy Backtesting Engine
-FinTech backend for automated strategy evaluation
+📈 <strong>Trading Strategy Backtesting Engine</strong>  
+<strong>FinTech backend</strong> for <strong>automated strategy evaluation</strong>
 
-🆔 ZenId (Decentralized Identity Platform)
-Blockchain-based digital identity & document verification
+🆔 <strong>ZenId (Decentralized Identity Platform)</strong>  
+<strong>Blockchain-based digital identity & document verification</strong>
 
-🏗 Godrej Reserve – Lead Generation Platform
-High-conversion real-estate lead capture system
+🏗 <strong>Godrej Reserve – Lead Generation Platform</strong>  
+<strong>High-conversion real-estate lead capture system</strong>
+
 
 ---
 
