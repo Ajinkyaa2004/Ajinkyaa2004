@@ -7,23 +7,6 @@
 
 ## 👨‍💻 About Me
 
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Web Development
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 🗃️ Databases🚀 I’m a builder-first, founder-mindset engineer who focuses on turning ideas into working, user-facing products, not just prototypes.
-
 🧠 I’ve led and built end-to-end platforms — from ideation and feature scoping to development and deployment — across domains like hiring tech, sports analytics, fintech backtesting, real-estate lead generation, and internal management systems.
 
 ⚙️ Strong execution background with Java, Spring Boot, Node.js, Express, FastAPI, and modern frontend stacks (React, Next.js, Tailwind, ShadCN UI), enabling me to move fast without compromising architecture.
@@ -41,6 +24,22 @@
 🤝 Hackathon builder, team lead, and mentor — comfortable aligning technical execution with business goals and stakeholder needs.
 
 😉 Fun fact: I care more about shipping and learning fast than being perfect on day one.
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web Development
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🗃️ Databases🚀 I’m a builder-first, founder-mindset engineer who focuses on turning ideas into working, user-facing products, not just prototypes.
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
