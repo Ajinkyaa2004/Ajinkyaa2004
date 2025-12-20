@@ -68,7 +68,7 @@
 
 ## 🌟 Featured Projects
 
-🧠 <strong>IFA Hiring Platform (SkillQuest)</strong>  
+🧠 <h3><strong>IFA Hiring Platform (SkillQuest)</strong></h3>  
 <strong>Gamified hiring & assessment platform</strong> with <strong>real-world workflows</strong>
 
 🤖 <strong>NexPrep</strong>  
