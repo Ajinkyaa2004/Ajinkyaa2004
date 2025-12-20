@@ -6,23 +6,24 @@
 ---
 
 ## 👨‍💻 About Me
-🧠 I’ve led and built end-to-end platforms — from ideation and feature scoping to development and deployment — across domains like hiring tech, sports analytics, fintech backtesting, real-estate lead generation, and internal management systems.
+🧠 I’ve <strong>led and built end-to-end platforms</strong> — from <strong>ideation and feature scoping</strong> to <strong>development and deployment</strong> — across domains like <strong>hiring tech, sports analytics, fintech backtesting, real-estate lead generation</strong>, and <strong>internal management systems</strong>.
 
-⚙️ Strong execution background with Java, Spring Boot, Node.js, Express, FastAPI, and modern frontend stacks (React, Next.js, Tailwind, ShadCN UI), enabling me to move fast without compromising architecture.
+⚙️ Strong <strong>execution background</strong> with <strong>Java, Spring Boot, Node.js, Express, FastAPI</strong>, and <strong>modern frontend stacks</strong> (<strong>React, Next.js, Tailwind, ShadCN UI</strong>), enabling me to <strong>move fast without compromising architecture</strong>.
 
-📊 I build data-driven products such as football match analytics (CopaScore), trading strategy backtesting engines, and feedback analysis systems — designed to support decision-making, not vanity metrics.
+📊 I build <strong>data-driven products</strong> such as <strong>football match analytics (CopaScore)</strong>, <strong>trading strategy backtesting engines</strong>, and <strong>feedback analysis systems</strong> — designed to support <strong>decision-making</strong>, not vanity metrics.
 
-🎯 Product-oriented by default: I think in terms of user problems, funnels, conversions, workflows, and outcomes, which has shaped projects like high-conversion real-estate landing pages and gamified hiring platforms.
+🎯 <strong>Product-oriented by default</strong>: I think in terms of <strong>user problems, funnels, conversions, workflows, and outcomes</strong>, which has shaped projects like <strong>high-conversion real-estate landing pages</strong> and <strong>gamified hiring platforms</strong>.
 
-📦 Comfortable wearing multiple hats — product, engineering, UX, and ops — including database design, API security, deployments, and iteration based on real usage.
+📦 Comfortable wearing <strong>multiple hats</strong> — <strong>product, engineering, UX, and ops</strong> — including <strong>database design, API security, deployments</strong>, and <strong>iteration based on real usage</strong>.
 
-🧩 Experienced with MongoDB, MySQL, PostgreSQL, authentication flows, and scalable backend patterns that support growth.
+🧩 Experienced with <strong>MongoDB, MySQL, PostgreSQL</strong>, <strong>authentication flows</strong>, and <strong>scalable backend patterns</strong> that support <strong>growth</strong>.
 
-🌱 Actively exploring Product Management and Startup Strategy, with hands-on experience through case studies, lead funnels, hiring pipelines, and analytics dashboards.
+🌱 Actively exploring <strong>Product Management</strong> and <strong>Startup Strategy</strong>, with hands-on experience through <strong>case studies, lead funnels, hiring pipelines</strong>, and <strong>analytics dashboards</strong>.
 
-🤝 Hackathon builder, team lead, and mentor — comfortable aligning technical execution with business goals and stakeholder needs.
+🤝 <strong>Hackathon builder, team lead, and mentor</strong> — comfortable aligning <strong>technical execution</strong> with <strong>business goals</strong> and <strong>stakeholder needs</strong>.
 
-😉 Fun fact: I care more about shipping and learning fast than being perfect on day one.
+😉 Fun fact: I care more about <strong>shipping and learning fast</strong> than being perfect on day one.
+
 ---
 
 ## 🛠️ Tech Stack
