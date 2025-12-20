@@ -7,25 +7,6 @@
 
 ## 👨‍💻 About Me
 
-🚀 I’m a builder-first founder mindset engineer who focuses on turning ideas into working, user-facing products, not just prototypes.
-
-🧠 I’ve led and built end-to-end platforms—from ideation and feature scoping to development and deployment—across domains like hiring tech, sports analytics, fintech backtesting, real-estate lead generation, and internal management systems.
-
-⚙️ Strong execution background with Java, Spring Boot, Node.js, Express, FastAPI, and modern frontend stacks (React, Next.js, Tailwind, ShadCN UI), enabling me to move fast without compromising architecture.
-
-📊 I build data-driven products such as football match analytics (CopaScore), trading strategy backtesting engines, and feedback analysis systems—designed to support decision-making, not vanity metrics.
-
-🎯 Product-oriented by default: I think in terms of user problems, funnels, conversions, workflows, and outcomes, which has shaped projects like high-conversion real-estate landing pages and gamified hiring platforms.
-
-📦 Comfortable wearing multiple hats—product, engineering, UX, and ops—including database design, API security, deployments, and iteration based on real usage.
-
-🧩 Experienced with MongoDB, MySQL, PostgreSQL, authentication flows, and scalable backend patterns that support growth.
-
-🌱 Actively exploring Product Management and Startup Strategy, with hands-on experience through case studies, lead funnels, hiring pipelines, and analytics dashboards.
-
-🤝 Hackathon builder, team lead, and mentor—comfortable aligning technical execution with business goals and stakeholder needs.
-
-😉 Fun fact: I care more about shipping and learning fast than being perfect on day one.
 
 ---
 
@@ -41,7 +22,25 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🗃️ Databases
+### 🗃️ Databases🚀 I’m a builder-first, founder-mindset engineer who focuses on turning ideas into working, user-facing products, not just prototypes.
+
+🧠 I’ve led and built end-to-end platforms — from ideation and feature scoping to development and deployment — across domains like hiring tech, sports analytics, fintech backtesting, real-estate lead generation, and internal management systems.
+
+⚙️ Strong execution background with Java, Spring Boot, Node.js, Express, FastAPI, and modern frontend stacks (React, Next.js, Tailwind, ShadCN UI), enabling me to move fast without compromising architecture.
+
+📊 I build data-driven products such as football match analytics (CopaScore), trading strategy backtesting engines, and feedback analysis systems — designed to support decision-making, not vanity metrics.
+
+🎯 Product-oriented by default: I think in terms of user problems, funnels, conversions, workflows, and outcomes, which has shaped projects like high-conversion real-estate landing pages and gamified hiring platforms.
+
+📦 Comfortable wearing multiple hats — product, engineering, UX, and ops — including database design, API security, deployments, and iteration based on real usage.
+
+🧩 Experienced with MongoDB, MySQL, PostgreSQL, authentication flows, and scalable backend patterns that support growth.
+
+🌱 Actively exploring Product Management and Startup Strategy, with hands-on experience through case studies, lead funnels, hiring pipelines, and analytics dashboards.
+
+🤝 Hackathon builder, team lead, and mentor — comfortable aligning technical execution with business goals and stakeholder needs.
+
+😉 Fun fact: I care more about shipping and learning fast than being perfect on day one.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
