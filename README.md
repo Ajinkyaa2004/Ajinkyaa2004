@@ -6,7 +6,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 🧠 I’ve led and built end-to-end platforms — from ideation and feature scoping to development and deployment — across domains like hiring tech, sports analytics, fintech backtesting, real-estate lead generation, and internal management systems.
 
 ⚙️ Strong execution background with Java, Spring Boot, Node.js, Express, FastAPI, and modern frontend stacks (React, Next.js, Tailwind, ShadCN UI), enabling me to move fast without compromising architecture.
