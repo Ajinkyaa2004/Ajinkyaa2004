@@ -70,11 +70,23 @@
 
 ## 🌟 Featured Projects
 
-- 🤖 **NexPrep** - Next Js + React Js, Tailwind CSS, Google-Gemini API, Firebase + Drizzle ORM  
-- 🏨 **Hotel Management System** – Java Swing + MySQL  
-- 🛒 **Fab Wear** – E-commerce site using HTML/CSS/JS + Local Storage  
-- 💬 **Chat App** – Java + Spring Boot backend, Swing UI frontend  
-- 🆔 **ZenId** - Next Js + React Js, Tailwind CSS, MetaMask, Solidity, Firebase
+🧠 IFA Hiring Platform (SkillQuest)
+Gamified hiring & assessment platform with real-world workflows
+
+🤖 NexPrep
+AI-powered mock interview & preparation platform
+
+⚽ CopaScore
+Live football analytics & match prediction system
+
+📈 Trading Strategy Backtesting Engine
+FinTech backend for automated strategy evaluation
+
+🆔 ZenId (Decentralized Identity Platform)
+Blockchain-based digital identity & document verification
+
+🏗 Godrej Reserve – Lead Generation Platform
+High-conversion real-estate lead capture system
 
 ---
 
