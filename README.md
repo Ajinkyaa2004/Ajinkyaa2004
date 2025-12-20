@@ -7,18 +7,25 @@
 
 ## 👨‍💻 About Me
 
-🖥️ I'm a passionate developer with a strong foundation in Java and Spring Boot.  
-🚀 Focused on building fast, responsive, and real-world web applications.  
-🧠 Strong understanding of backend systems, databases, and scalable APIs.  
-🎨 I love crafting clean and user-friendly UIs using HTML, CSS, JavaScript, and React.  
-📱 Built cross-platform responsive apps using local storage and dynamic JS logic.  
-🌐 Curious about how the web works — from frontend rendering to API integration.  
-🌳 Confident in using GitHub for version control, collaboration, and CI workflows.  
-🗃️ Experienced in MySQL and MongoDB for structured and NoSQL data.  
-🔒 Aware of secure API practices including JWT and Basic Auth.  
-📚 Fast learner — I pick up new tools like Figma and Jira by diving into docs and hands-on building.  
-📈 Participated in hackathons, built scalable apps, and mentored juniors on tech topics.  
-😉 Fun fact: I turn caffeine into code, and ideas into working products!  
+🚀 I’m a builder-first founder mindset engineer who focuses on turning ideas into working, user-facing products, not just prototypes.
+
+🧠 I’ve led and built end-to-end platforms—from ideation and feature scoping to development and deployment—across domains like hiring tech, sports analytics, fintech backtesting, real-estate lead generation, and internal management systems.
+
+⚙️ Strong execution background with Java, Spring Boot, Node.js, Express, FastAPI, and modern frontend stacks (React, Next.js, Tailwind, ShadCN UI), enabling me to move fast without compromising architecture.
+
+📊 I build data-driven products such as football match analytics (CopaScore), trading strategy backtesting engines, and feedback analysis systems—designed to support decision-making, not vanity metrics.
+
+🎯 Product-oriented by default: I think in terms of user problems, funnels, conversions, workflows, and outcomes, which has shaped projects like high-conversion real-estate landing pages and gamified hiring platforms.
+
+📦 Comfortable wearing multiple hats—product, engineering, UX, and ops—including database design, API security, deployments, and iteration based on real usage.
+
+🧩 Experienced with MongoDB, MySQL, PostgreSQL, authentication flows, and scalable backend patterns that support growth.
+
+🌱 Actively exploring Product Management and Startup Strategy, with hands-on experience through case studies, lead funnels, hiring pipelines, and analytics dashboards.
+
+🤝 Hackathon builder, team lead, and mentor—comfortable aligning technical execution with business goals and stakeholder needs.
+
+😉 Fun fact: I care more about shipping and learning fast than being perfect on day one.
 
 ---
 
