@@ -91,14 +91,7 @@
 
 ---
 
-## 📊 GitHub Stats & Streaks  
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajinkyaa2004&show_icons=true&theme=tokyonight" alt="Ajinkya's GitHub Stats" />
-
-</p>
-
----
 
 ## 🐍 Contribution Graph
 
