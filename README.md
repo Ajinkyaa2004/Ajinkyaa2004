@@ -101,7 +101,7 @@
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **🤖 NexPrep AI** | AI mock-interview platform — real-time voice interviews (Vapi), Gemini-powered feedback &amp; ATS resume parsing | Next.js · Drizzle ORM · Tailwind · Vapi | [Live](https://nexprepai.vercel.app)·[Code](https://github.com/Ajinkyaa2004/NexPrep) |
-| **📈 Backtesting Engine** | Clients submit strategies → versioned, isolation-tested backtests with audit trails &amp; PDF reports in their dashboard | FastAPI · Python · TypeScript · PostgreSQL | [Live](https://nexprepai.vercel.app)·[Code](https://github.com/Ajinkyaa2004/IFA-Backtesting-Product) |
+| **📈 Backtesting Engine** | Clients submit strategies → versioned, isolation-tested backtests with audit trails &amp; PDF reports in their dashboard | FastAPI · Python · TypeScript · PostgreSQL | [Live](https://backtestingengine.insightfusionanalytics.com)·[Code](https://github.com/Ajinkyaa2004/IFA-Backtesting-Product) |
 | **⚽ CopaScore AI** | Live football analytics &amp; match prediction from real-time SportMonks data | TypeScript · Python · SportMonks API | [Code](https://github.com/Ajinkyaa2004/Copascore) |
 | **🧠 IFA SkillQuest** | Gamified hiring — cognitive assessments that evaluate how candidates *think*, not just resumes | TypeScript · React · Node | [Live](https://ifa-hiring-platform.vercel.app)·[Code](https://github.com/Ajinkyaa2004/IFA-Hiring-Platform) |
 | **🏗️ Godrej Reserve** | SEO-optimized, high-conversion real-estate lead-generation site | Next.js · JavaScript | [Code](https://github.com/Ajinkyaa2004/Godrej-Properties) |
