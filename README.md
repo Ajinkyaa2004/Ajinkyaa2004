@@ -41,7 +41,7 @@
 
 | Role | Focus |
 |---|---|
-| **Elite Project Analyst** · Hudl (Instat) | Leading a match-analyst team on live ice-hockey data — 50+ metrics/game for pro teams &amp; coaches |
+| **Elite Project Analyst, Queue** · Hudl (Instat) | Leading a match-analyst team on live ice-hockey data — 50+ metrics/game for pro teams &amp; coaches |
 | **Full Stack Developer** · Insight Fusion Analytics | React · Next.js · Node — products serving 1K+ DAU across 3 lines, plus ETL pipelines &amp; automation |
 | **Freelance Full Stack Developer** | Conversion-focused sites &amp; apps for real businesses — Godrej, Max Extrusions, Wasro |
 | **Exploring Product Management** | 16 strategic teardowns · IBM PM certified · product analytics |
